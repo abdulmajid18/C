@@ -24,4 +24,3 @@ int main(void)
                : "# is not a ",
            "digit or a letter");
 }
-s
